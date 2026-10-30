@@ -2,17 +2,17 @@
   "posts": [
     {
       "id": "update-2026-10-30",
-      "title": "Yeni güncelleme",
-      "text": "Oyuna gelen değişiklikler ve duyurular.",
+      "title": "Hell is Coming",
+      "text": "Doreth’in kuzey batısında ise kapkara bir bazaltla kaplı, fokurdamayan lav gölleri olan, parlayan damarlara sahip ağaçlar içeren, dikenli şekildeki siyah kayalar ve başka çok sert madenler barındıran bir bölge oluştu. Bu bölgeye ise Cehennem Bahçesi adı verildi. ",
       "published_at": "2026-10-30T09:00:00Z",
-      "image_url": "https://sagestudios16.github.io/path-of-doreth-announcements/images/DenemeUpdate.png"
+      "image_url": "https://sagestudios16.github.io/path-of-doreth-announcements/images/updatetestimage1.jpg"
     },
     {
       "id": "update-2026-10-30-test-2",
-      "title": "DENEME GÜNCELLEMESİ",
-      "text": "test, test test test, test test, test, test test test, test test, test, test test test, test test, test, test test test, test test, test, test test test, test test, test, test test test, test test, .",
+      "title": "The Ocean Froze",
+      "text": "Kristal Okyanus, Doreth'in güney doğusunda Hakimiyet Savaşı'ndan sonra oluşmuş bölgedir. Zemini, ağaçları, kayaları ve bazı canlıları buzdandır. Bu bölgedeki buz normal bir buz gibi değildir, kaya gibi serttir ve aşırı sıcaklıklara girmediği sürece erimez. Hakimiyet Savaşın'dan önce Güney Körfezi olarak adlandırılıyordu.",
       "published_at": "2026-10-30T09:00:00Z",
-      "image_url": "https://sagestudios16.github.io/path-of-doreth-announcements/images/DenemeUpdate.png"
+      "image_url": "https://sagestudios16.github.io/path-of-doreth-announcements/images/updatetestimage2.jpg"
     }
   ]
 }
